@@ -1,0 +1,6 @@
+[submodule "jbc_resources"]
+	path = jbc_resources
+	url = git@github.com:katieloesch/jbc_resources.git
+[submodule "jbc/jbc_resources"]
+	path = jbc/jbc_resources
+	url = git@github.com:katieloesch/jbc_resources.git
